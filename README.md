@@ -1,0 +1,5 @@
+-> 👋 Hello there, I’m Thuan Rael Lombardi
+-> 👀 Interested in C#, ASP.NET, NET Core, NET Framework, ASP.NET MVC, WPF, Angular
+-> 🌱 Currently learning Angular and architecture
+-> 💞️ Looking to collaborate on the ongoing development and improvement of Wex's code
+-> 📫 Reach me on Google Chats and Email
